@@ -3,7 +3,7 @@
 This notebook includes the code used to generate the Dichotomic Pattern Mining and machine learning classification analyses described in the manuscript entitled, “Sequential Patterning of Dynamic Brain States Distinguish Parkinson’s Disease Patients with Mild Cognitive Impairments”, which is currently under consideration for publication in the journal _NeuroImage: Clinical_.
 
 **Licensing Note:**  
-The following blocks of code were adapted from the [Seq2Pat GitHub repository](https://github.com/fidelity/seq2pat), which is available under [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0).  
+The notebook contains blocks of code that were adapted from the [Seq2Pat GitHub repository](https://github.com/fidelity/seq2pat), which is available under [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0).  
 
 **Current Adaptation by Aaron S. Kemp:**  
 This adaptation has been modified for the purposes of this project and is provided under the following terms:
